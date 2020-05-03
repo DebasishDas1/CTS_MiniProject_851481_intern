@@ -1,4 +1,4 @@
-# CTS_MiniProject_851481_intern
+# CTS_MiniProject_851481_Debasish
 
 Get first 5 Bluetooth headphones name and price from online shopping site for criteria: 
 1. Price range should be between 700 to 1400
