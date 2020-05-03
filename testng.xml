@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="/home/deba/IdeaProjects/CTS_MiniProjectt_851481_DebasishDas/src">
+        <classes>
+            <class name="com_java_main.MainClass">
+                <methods>
+                    <include name="StartChrome"/>
+                    <include name="startFirFox"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
